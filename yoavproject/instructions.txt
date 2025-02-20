@@ -1,0 +1,10 @@
+to start run:
+npm start
+
+API links:
+http://localhost:3001/api/movies
+http://localhost:3002/api/tvshows
+http://localhost:3003/merged-data
+
+git resp:
+https://github.com/YoavMalca123/yoavproject
